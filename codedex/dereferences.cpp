@@ -16,9 +16,4 @@ int main() {
   std::cout << *pTip2 << "\n";
   std::cout << *pTip3 << "\n";
   std::cout << *pTip4 << "\n";
-
-  // Write code here 💖
-  // just put start in front of veriable in cout 
-  
-  
 }
