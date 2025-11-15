@@ -1,7 +1,7 @@
 //printing a message
-#include <iostream.h>
+#include <iostream> // using iostream instead of iostream.h(old version)
 int main (void) 
 {
-  cout << "Hello, this is my first C++ program" << endl;
+  std::cout << "Hello, this is my first C++ program" << std::endl;
   return 0;
 }
