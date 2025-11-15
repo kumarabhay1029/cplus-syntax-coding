@@ -1,6 +1,6 @@
 // printing first name not after space i.e. if input is "John Doe" then output is "John"
 #include <iostream>
-#include <conio.h> // ofr older compiler then we have to to use clrscr() instead of system("cls");
+#include <conio.h> // for older compiler then we have to to use clrscr() instead of system("cls");
 #include <cstdlib> // for system("cls");
 main()
 {
